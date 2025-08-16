@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on exciting front-end projects using React
 - 🌱 I’m constantly learning and improving my skills in modern web development
 - 💬 Ask me about HTML, CSS, JavaScript, or React
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: [ammarhatem13pp@gmail.com]
 
 ---
 
